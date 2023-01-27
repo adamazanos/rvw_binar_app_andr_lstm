@@ -12,19 +12,19 @@ MENGGUNAKAN MODEL DARI NUSAX = https://github.com/IndoNLP/nusax
 
 TAHAPAN TAHAPAN
 
-    SCRAPPING REVIEW DI GOOGLE PLAY
-    REVIEW HASIL SCRAPING
-    PERSIAPAN DATASET DARI NUSA X
-        READ DATA MENTAH
-        KOMBINASI DATASET INGGRIS & INDO
-    PERSIAPAN MODELING DATA TRAIN
-        FEATURE EXTRACTION
-    Prepare train & test data sets
-    Penerapan Konsep LSTM
-    Data Review Binar
-    Persiapan Data Predict
-    Predict LSTM
-    Visualisasi Predict LSTM
+1.    SCRAPPING REVIEW DI GOOGLE PLAY
+2.    REVIEW HASIL SCRAPING
+3.    PERSIAPAN DATASET DARI NUSA X
+    a.    READ DATA MENTAH
+    b.    KOMBINASI DATASET INGGRIS & INDO
+4.    PERSIAPAN MODELING DATA TRAIN
+    a.    FEATURE EXTRACTION
+5.    Prepare train & test data sets
+6.    Penerapan Konsep LSTM
+7.    Data Review Binar
+8.    Persiapan Data Predict
+9.    Predict LSTM
+10.    Visualisasi Predict LSTM
 
 
 
