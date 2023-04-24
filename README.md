@@ -11,6 +11,8 @@ Sumber dataset yang di gunakan sebagai target penelitian adalah
 **Dataset** =
 APPS ANDROID BINAR ACADEMY = https://play.google.com/store/apps/details?id=com.binaracademy.app&hl=id&gl=US
 
+<img src="https://raw.githubusercontent.com/adamazanos/rvw_binar_app_andr_lstm/main/Asset%20Android%20binar/android%20sentiment%20binar.png">
+
 Sedangkan untuk sumber supervised training model yang sudah di labeling negatif, netral dan positif MENGGUNAKAN IndoNLP DARI NUSAX = https://github.com/IndoNLP/nusax
 
 ## 👣 Tahap - Tahap
@@ -35,6 +37,8 @@ Sedangkan untuk sumber supervised training model yang sudah di labeling negatif,
 
 ## 🤖 Preview *Output*
 Output model
+
+<img src="https://raw.githubusercontent.com/adamazanos/rvw_binar_app_andr_lstm/main/Asset%20Android%20binar/hasil%20sentiment.png">
 
 ##  🙌  Special Thanks
 
