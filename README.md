@@ -1,5 +1,8 @@
 # 🕵️ Review Apps Binar Di Android Menggunakan LSTM
 
+## 🔗 This Link
+- https://github.com/adamazanos/rvw_binar_app_andr_lstm
+
 *28 JANUARI 2023 (V2)
 
 Target project ini adalah membuat model sentiment analysis yang berguna untuk memberikan penilaian terhadap review aplikasi binar academy di google review.
@@ -43,7 +46,3 @@ Output hasil prediksi sentiment
 ##  🙌  Special Thanks
 
 thanks to https://github.com/numbstudent Sudah membantu review
-
-## 🔗 This Link
-
-- https://github.com/adamazanos/rvw_binar_app_andr_lstm
